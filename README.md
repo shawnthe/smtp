@@ -1,6 +1,6 @@
 
 * **Course** : Computer Networks | University 5th semester project
-* **Organization** : School of Engineering and Applied Science, Ahmedabad University, India.
+
 
 ## How to run client and server file:
 * First compile the server.c file and run using this format : ./server portnumber(any range except 0-1023)
